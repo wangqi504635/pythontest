@@ -2,7 +2,7 @@ __author__ = 'wangqi'
 # -*- coding:utf-8 -*-
 import urllib.request
 
-from parser.JZMHtmlParser import JZMParser
+from JZM.parser.JZMHtmlParser import JZMParser
 
 
 def getHtml(url):

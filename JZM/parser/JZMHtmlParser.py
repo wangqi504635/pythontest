@@ -3,7 +3,7 @@ __author__ = 'wangqi'
 
 from html.parser import HTMLParser
 
-from model.juzi import juzi
+from JZM.model.juzi import juzi
 
 
 class JZMParser(HTMLParser):
